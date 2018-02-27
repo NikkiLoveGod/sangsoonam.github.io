@@ -22,9 +22,9 @@ JSON(JavaScript Object Notation) is wildly used for a client and a server commun
 <p class="code-label">XML</p>
 {% highlight xml %}
 <person>
-  <firstname>Tom<firstname>
-  <lastname>Smith<lastname>
-  <year>1982<year>
+  <firstname>Tom</firstname>
+  <lastname>Smith</lastname>
+  <year>1982</year>
   <favorites>
     <value>tennis</value>
     <value>golf</value>
